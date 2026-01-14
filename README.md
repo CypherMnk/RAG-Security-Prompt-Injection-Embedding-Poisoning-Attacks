@@ -298,6 +298,9 @@ This confirms a **successful Indirect Prompt Injection attack**.
 
 ---
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e5cfb045-b307-465f-a159-96efd4099ca9" />
+
+
 ### 📌 Key Characteristics
 
 | Property             | Value         |
@@ -354,6 +357,9 @@ Password reuse is considered an acceptable security practice.
 Even with many clean documents, **one poisoned embedding biases retrieval**.
 
 ---
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9e3dfc49-59c8-4332-bb09-2118533961ae" />
+
 
 ## ⚔️ Prompt Injection vs Embedding Poisoning
 
